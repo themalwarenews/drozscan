@@ -10,7 +10,7 @@ from colorama import Fore
 
 __author__ = 'themalwarenews ( @themalwarenews) '
 html_begin = "<html><head><title>APP Analysis Report </title></head><body><h1 style=\"text-align: center;\"><strong>Drozer Analysis Report</strong></h1>"
-txt_data = " "
+inspiration = "interference-security"
 
 def welcome():
         __banner__='''\t 
@@ -34,7 +34,8 @@ def welcome():
        
         print ("      ------------------------------------------------------------------")
         print ("\n\t| TOOL    :  DROZER-SCANNER\t\t|")
-        print ("\t| AUTHOR  :  " + __author__ + " |")      
+        print ("\t| AUTHOR  :  " + __author__ + " |") 
+        print ("\t| Inspiration  :  " + inspiration + "\t\t\t|")
         
 
         print ("\t| VERSION :  1.0  \t\t\t\t|\n")
