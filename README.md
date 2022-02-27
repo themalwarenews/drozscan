@@ -1,13 +1,13 @@
-# drozscan
+# Drozscan
 ### Nothing unique, just an automation
 ---
 
 ![image](https://user-images.githubusercontent.com/100226024/155892663-669e4fcc-1869-4472-95f1-10bd589f987b.png)
 
-### drozscan is just an automated script to run all drozer commands in a single run. See the results in CLI, JSON or HTML.
+### Drozscan is just an automated script to run all drozer commands in a single run. See the results in CLI, JSON or HTML.
 ---
 
-## NOTE : Make sure you install the [drozer](https://labs.f-secure.com/tools/drozer/) tool before running the script.
+## NOTE : Make sure you installed and configured the [drozer](https://labs.f-secure.com/tools/drozer/) tool before running the script.
 ---
 
 ### PRESEQUITES
