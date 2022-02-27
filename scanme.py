@@ -35,7 +35,7 @@ def welcome():
         print ("      ------------------------------------------------------------------")
         print ("\n\t| TOOL    :  DROZER-SCANNER\t\t|")
         print ("\t| AUTHOR  :  " + __author__ + " |") 
-        print ("\t| Inspiration  :  " + inspiration + "\t\t\t|")
+        print ("\t| Inspiration  :  " + inspiration + "\t\t|")
         
 
         print ("\t| VERSION :  1.0  \t\t\t\t|\n")
